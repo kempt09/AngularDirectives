@@ -1,0 +1,16 @@
+<div class="container-fluid" ng-repeat="item in array">
+    <div class="row">
+        <div class="col-xs-12">
+            <h4>{{item.title}}</h4>
+            <div class="col-xs-2">
+                <a href="{{item.link}}">
+                    <img src="{{item.picture}}">
+                </a>
+            </div>
+            <div class="col-xs-10">
+                <p>{{item.description}}</p>
+                <h4>Author: {{item.author}}</h4>
+            </div>
+        </div>
+    </div>
+</div>

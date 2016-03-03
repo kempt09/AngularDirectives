@@ -1,0 +1,21 @@
+{
+  "name": "AngularDirectives",
+  "private": false,
+  "version": "0.0.0",
+  "description": "Description",
+  "repository": "repository",
+  "license": "MIT",
+  "devDependencies": {
+    "angular": "^1.5.0",
+    "angular-animate": "^1.5.0",
+    "angular-aria": "^1.5.0",
+    "angular-cookies": "^1.5.0",
+    "angular-loader": "^1.5.0",
+    "angular-messages": "^1.5.0",
+    "angular-resource": "^1.5.0",
+    "angular-route": "^1.5.0",
+    "angular-sanitize": "^1.5.0",
+    "angular-touch": "^1.5.0",
+    "angular-ui-bootstrap": "^1.1.2"
+  }
+}
